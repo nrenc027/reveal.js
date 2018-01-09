@@ -1,11 +1,11 @@
 {
-  "name": "reveal.js",
+  "name": "slides",
   "version": "3.6.0",
   "main": [
     "js/reveal.js",
     "css/reveal.css"
   ],
-  "homepage": "http://revealjs.com",
+  "homepage": "http://rencummings.com/slides",
   "license": "MIT",
   "description": "The HTML Presentation Framework",
   "authors": [
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/nrenc027/slides.git"
   },
   "ignore": [
     "**/.*",
